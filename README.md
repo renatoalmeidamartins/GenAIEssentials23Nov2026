@@ -14,8 +14,10 @@
     - [What is Machine Learning?](https://aws.amazon.com/what-is/machine-learning/)
     - [What are Embeddings in Machine Learning?](https://aws.amazon.com/what-is/embeddings-in-machine-learning/)
     - [What are prompt engineering techniques?](https://aws.amazon.com/what-is/prompt-engineering/)
+    - [What is RAG (Retrieval-Augmented Generation)?](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
 - Engenharia de prompts
     - [Implementing advanced prompt engineering with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
     - [Design a prompt](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html), na documentação do Bedrock
     - [Prompt templates and examples for Amazon Bedrock text models](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-templates-and-examples.html)
+- [Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications](https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/)
 
