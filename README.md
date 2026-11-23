@@ -13,3 +13,9 @@
     - [What are Transformers in Artificial Intelligence?](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
     - [What is Machine Learning?](https://aws.amazon.com/what-is/machine-learning/)
     - [What are Embeddings in Machine Learning?](https://aws.amazon.com/what-is/embeddings-in-machine-learning/)
+    - [What are prompt engineering techniques?](https://aws.amazon.com/what-is/prompt-engineering/)
+- Engenharia de prompts
+    - [Implementing advanced prompt engineering with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
+    - [Design a prompt](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html), na documentação do Bedrock
+    - [Prompt templates and examples for Amazon Bedrock text models](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-templates-and-examples.html)
+
