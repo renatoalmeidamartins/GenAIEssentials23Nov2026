@@ -1,0 +1,1 @@
+# GenAIEssentials23Nov2026
