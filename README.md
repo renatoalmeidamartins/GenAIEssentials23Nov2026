@@ -44,3 +44,9 @@
  - MCPs de codigo aberto para AWS: 
     - [Pagina do github](https://awslabs.github.io/mcp/)
     - [Repo da organizacao da AWS labs com uma lista significativa](https://github.com/awslabs/mcp)
+- [MCP inspector](https://github.com/modelcontextprotocol/inspector)
+- [Protecao de dados sensiveis com logs de cloudwatch](https://aws.amazon.com/blogs/aws/protect-sensitive-data-with-amazon-cloudwatch-logs/)
+- [New Amazon CloudWatch log class for infrequent access logs at a reduced price](https://aws.amazon.com/blogs/aws/new-amazon-cloudwatch-log-class-for-infrequent-access-logs-at-a-reduced-price/)
+- [Get started with AgentCore Observability](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/observability-get-started.html)
+- [Effective context engineering for AI agents](https://www.anthropic.com/research/effective-context-engineering-for-ai-agents)
+- [Semantic search no agentcore gateway](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
