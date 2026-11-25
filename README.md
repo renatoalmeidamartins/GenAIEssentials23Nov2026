@@ -4,6 +4,8 @@
 - [Labs e material](https://us-east-1.student.classrooms.aws.training/class/ilt%23nYW7QeyGFYXJT9NfFRcb1r)
 
 ## Links do curso
+
+### Dia 1
 - [Introducing AWS Capabilities by Region for easier Regional planning and faster global deployments](https://aws.amazon.com/blogs/aws/introducing-aws-capabilities-by-region-for-easier-regional-planning-and-faster-global-deployments/)
 - [The neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 - [Built-in algorithms and pretrained models in Amazon SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
@@ -27,3 +29,4 @@
     - [Use a reranker model in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/rerank-use.html)
     - [Rerank](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_agent-runtime_Rerank.html)
     - [Amazon Bedrock Knowledge Bases now supports hybrid search](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-knowledge-bases-now-supports-hybrid-search/)
+### Dia 2
