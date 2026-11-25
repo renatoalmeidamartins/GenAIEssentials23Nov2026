@@ -30,3 +30,7 @@
     - [Rerank](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_agent-runtime_Rerank.html)
     - [Amazon Bedrock Knowledge Bases now supports hybrid search](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-knowledge-bases-now-supports-hybrid-search/)
 ### Dia 2
+ - Prescriptive guidance da AWS para RAG: [Choosing an AWS vector database for RAG use cases](https://docs.aws.amazon.com/prescriptive-guidance/latest/choosing-an-aws-vector-database-for-rag-use-cases/introduction.html)
+ - [Integrações de bases vetoriais suportadas no Langchain](https://docs.langchain.com/oss/python/integrations/vectorstores#all-vector-stores)
+ - [O que é IA agentica](https://aws.amazon.com/what-is/agentic-ai/)
+ - ReAct: Synergizing Reasoning and Acting in Language Models: [blog](https://research.google/blog/react-synergizing-reasoning-and-acting-in-language-models/) e [paper](https://arxiv.org/pdf/2210.03629)
