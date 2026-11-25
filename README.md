@@ -34,3 +34,13 @@
  - [Integrações de bases vetoriais suportadas no Langchain](https://docs.langchain.com/oss/python/integrations/vectorstores#all-vector-stores)
  - [O que é IA agentica](https://aws.amazon.com/what-is/agentic-ai/)
  - ReAct: Synergizing Reasoning and Acting in Language Models: [blog](https://research.google/blog/react-synergizing-reasoning-and-acting-in-language-models/) e [paper](https://arxiv.org/pdf/2210.03629)
+ - [The Agentic AI Security Scoping Matrix: A framework for securing autonomous AI systems](https://aws.amazon.com/blogs/security/the-agentic-ai-security-scoping-matrix-a-framework-for-securing-autonomous-ai-systems/)
+ - [What is the Model Context Protocol (MCP)?](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro)
+ - [Registry oficial de MCP](https://registry.modelcontextprotocol.io/)
+ - Anuncio de Harness em AgentCore: [Get to your first working agent in minutes: Announcing new features in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/get-to-your-first-working-agent-in-minutes-announcing-new-features-in-amazon-bedrock-agentcore/)
+ - [Introducing Strands Agents, an Open Source AI Agents SDK](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
+ - [Agentes no Langchain](https://docs.langchain.com/oss/python/langchain/agents)
+ - [Visão geral do Agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html), atenção aos "componentes"
+ - MCPs de codigo aberto para AWS: 
+    - [Pagina do github](https://awslabs.github.io/mcp/)
+    - [Repo da organizacao da AWS labs com uma lista significativa](https://github.com/awslabs/mcp)
