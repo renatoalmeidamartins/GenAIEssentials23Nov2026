@@ -2,6 +2,7 @@
 
 ## Material, avaliação e labs
 - [Labs e material](https://us-east-1.student.classrooms.aws.training/class/ilt%23nYW7QeyGFYXJT9NfFRcb1r)
+- [Avaliacao do curso](https://myclass.skillbuider.com), na secao de "Past classes", e podem clicar no botao "Evaluation Survey" 
 
 ## Links do curso
 
@@ -50,3 +51,4 @@
 - [Get started with AgentCore Observability](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/observability-get-started.html)
 - [Effective context engineering for AI agents](https://www.anthropic.com/research/effective-context-engineering-for-ai-agents)
 - [Semantic search no agentcore gateway](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
+- Agentcore Policy: [Why Policy in Amazon Bedrock AgentCore chose Cedar for securing agentic workflows](https://aws.amazon.com/blogs/security/why-policy-in-amazon-bedrock-agentcore-chose-cedar-for-securing-agentic-workflows/)
